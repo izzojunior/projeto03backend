@@ -42,7 +42,7 @@ Dentro da pasta Projeto Final você pode experimentar as coleções e ambientes 
   ```
   {
       "nome" : "Iron Maiden",
-      "vocalista" : Bruce Dickinson,
+      "vocalista" : "Bruce Dickinson",
       "ano" : 1975-,
       "musica" : "The Number Of The Beast"
   }
@@ -93,7 +93,7 @@ Dentro da pasta Projeto Final você pode experimentar as coleções e ambientes 
    ```
    {
        "nome" : "Iron Maiden",
-       "vocalista" : Bruce Dickinson,
+       "vocalista" : "Bruce Dickinson",
        "ano" : 1975-,
        "musica" : "The Number Of The Beast"
    }
